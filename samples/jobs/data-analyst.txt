@@ -1,0 +1,2 @@
+Data Analyst: SQL, Excel, Power BI or Tableau, statistics, A/B testing, pandas,
+data cleaning, dashboards, stakeholder reporting. Python is a plus.
