@@ -1,0 +1,2 @@
+Machine Learning Engineer: Python, PyTorch, TensorFlow, deep learning, NLP,
+model deployment with Docker and Kubernetes, AWS, CI/CD, SQL, airflow pipelines.
