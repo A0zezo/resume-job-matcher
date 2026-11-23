@@ -1,0 +1,2 @@
+AI Engineer: Python, LLM application development, RAG, vector search, embeddings,
+prompt engineering, FastAPI, Docker, evaluation of LLM outputs, SQL.
