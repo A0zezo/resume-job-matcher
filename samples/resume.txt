@@ -1,0 +1,5 @@
+Sample resume (fictional): Junior AI Engineer
+Python, SQL, scikit-learn, TensorFlow, PyTorch, pandas, numpy. Built machine learning
+models for text classification and computer vision. Experience with LLM applications,
+RAG pipelines, vector search and embeddings. FastAPI and Streamlit for serving.
+Docker, Git, Linux. Power BI dashboards. Statistics and A/B testing basics.
